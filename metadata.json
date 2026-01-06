@@ -1,0 +1,7 @@
+{
+  "name": "Controle de Vencimentos CH",
+  "description": "Sistema especializado em gestão de estoque e monitoramento de validade com inteligência artificial.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
